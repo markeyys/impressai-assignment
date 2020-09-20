@@ -50,7 +50,7 @@ Copy the token and paste in `chatbot_tutorial/views.py`
 
 ### Step 6 : Set your webhook by sending a post request to the Telegram API
 
-Refer to the token called `TELEGRAM_TOKEN` under `chatbot_tutorial/views.py`
+Retrieve in the token and add it into `TELEGRAM_TOKEN` under `chatbot_tutorial/views.py`
 
 If you are on a system where you can run a curl command, run the following command in your terminal (Remember to replace ngrok_url and bot_token)
 
