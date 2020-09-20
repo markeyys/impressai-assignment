@@ -1,4 +1,4 @@
-# django-bot-server-tutorial
+# Impress AI Bot Assignment
 This is the technical assignment for Impress AI
 
 # Requirements
@@ -14,8 +14,8 @@ To get this running, you need the following. First install dependencies
 
 ### Step 0 : Clone the Repository
 
-`git clone https://github.com/markeyys/impressai-assignment.git`
-`cd impressai-assignment`
+- `git clone https://github.com/markeyys/impressai-assignment.git`
+- `cd impressai-assignment`
 
 ### Step 1 : Install dependencies
 
